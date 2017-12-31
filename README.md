@@ -10,6 +10,11 @@ rather than Sans.
 
 * In `darktablerc`, sidebars are set to 300px.
 
+### installation
+
+Copy both files in the `settings` folder to `~/.config/darktable`. Restart if
+necessary.
+
 ## styles
 
 My own styles I've developed for darktable
