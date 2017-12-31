@@ -1,7 +1,15 @@
-# darktable_settings
+# darktable_stuff
 
-Gives a bit more room for editing photos in Darktable using smaller font sizes and side bars.
+## settings
 
-In `darktable_css`, set default font sizes to 5/10.5pt and uses Lucida Grande rather than Sans.
+Files in this folder are my preferred settings for using darktable on. These
+give a bit more room for editing photos, using smaller font sizes and side bars.
 
-In `darktablerc`, sidebars are set to 300px.
+* In `darktable_css`, set default font sizes to 5/10.5pt and uses Lucida Grande
+rather than Sans.
+
+* In `darktablerc`, sidebars are set to 300px.
+
+## styles
+
+My own styles I've developed for darktable
